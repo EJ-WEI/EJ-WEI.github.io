@@ -22,3 +22,6 @@
 [0905/222004.715:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: 存取被拒。 (0x5)
 [0905/222004.715:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: 管道已結束。 (0x6D)
 [0905/222004.715:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: 存取被拒。 (0x5)
+[0906/172124.097:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: 存取被拒。 (0x5)
+[0906/172124.100:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: 管道已結束。 (0x6D)
+[0906/172124.100:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: 存取被拒。 (0x5)
